@@ -13,6 +13,7 @@
 | Name | Author | Description | Link |
 |------|--------|-------------|------|
 | portfolio-template | [AkberJag](https://github.com/AkberJag) | A fully customizable portfolio website template built using Vue.js, Tailwind CSS, and Lucide Icons. | [View Project](https://github.com/AkberJag/portfolio-template) |
+| suradet-portfolio | [pharmacist-sabot](https://github.com/pharmacist-sabot) | A personal portfolio website built with Vue.js, showcasing projects and professional experience. | [View Project](https://github.com/pharmacist-sabot/suradet-portfolio) |
 | vuefolio | [ralodev](https://github.com/ralodev) | A portfolio template built with Vue.js, i18n, and TypeScript. It is highly customizable, easy to set up, and thoroughly optimized for performance, SEO, and accessibility. | [View Project](https://github.com/ralodev/vuefolio) |
 
 > **Note**: Add your project by following the contribution guidelines below.
