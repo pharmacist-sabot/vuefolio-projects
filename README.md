@@ -12,9 +12,8 @@
 
 | Name | Author | Description | Link |
 |------|--------|-------------|------|
+| portfolio-template | [AkberJag](https://github.com/AkberJag) | A fully customizable portfolio website template built using Vue.js, Tailwind CSS, and Lucide Icons. | [View Project](https://github.com/AkberJag/portfolio-template) |
 | vuefolio | [ralodev](https://github.com/ralodev) | A portfolio template built with Vue.js, i18n, and TypeScript. It is highly customizable, easy to set up, and thoroughly optimized for performance, SEO, and accessibility. | [View Project](https://github.com/ralodev/vuefolio) |
-| Creative Vue Portfolio | [another-author](https://github.com/another-author) | Creative portfolio with animations and dark mode | [View Project](https://example.com) |
-| Minimalist Vue Portfolio | [third-author](https://github.com/third-author) | Clean and minimalist design for developers | [View Project](https://example.com) |
 
 > **Note**: Add your project by following the contribution guidelines below.
 
