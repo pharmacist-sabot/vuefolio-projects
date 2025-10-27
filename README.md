@@ -16,6 +16,7 @@
 | portfolio-vuejs | [hbollon](https://github.com/hbollon) | Portfolio template using VueJs framework, CosmicJS API and Bootstrap. | [View Project](https://github.com/hbollon/portfolio-vuejs) |
 | suradet-portfolio | [pharmacist-sabot](https://github.com/pharmacist-sabot) | A personal portfolio website built with Vue.js, showcasing projects and professional experience. | [View Project](https://github.com/pharmacist-sabot/suradet-portfolio) |
 | vuefolio | [ralodev](https://github.com/ralodev) | Vuejs + i18n portfolio template with easy setup and SEO friendly. | [View Project](https://github.com/ralodev/vuefolio) |
+| vuejs-portofolio | [mahy209](https://github.com/mahy209) | A personal portfolio with Vue JS framework. | [View Project](https://github.com/mahy209/vuejs-portofolio) |
 | vuejs-tailwindcss-portfolio | [realstoman](https://github.com/realstoman) | A simple multipage and responsive Vue.js & Tailwind CSS portfolio theme with dark mode. | [View Project](https://github.com/realstoman/vuejs-tailwindcss-portfolio) |
 | win95 | [DonChiaQE](https://github.com/DonChiaQE) | Windows 95 Portfolio built with Vue.js. | [View Project](https://github.com/DonChiaQE/win95) |
 
