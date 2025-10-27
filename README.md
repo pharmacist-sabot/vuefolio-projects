@@ -13,6 +13,7 @@
 | Name | Author | Description | Link |
 |------|--------|-------------|------|
 | portfolio-template | [AkberJag](https://github.com/AkberJag) | A fully customizable portfolio website template built using Vue.js and Tailwind CSS. | [View Project](https://github.com/AkberJag/portfolio-template) |
+| portfolio-vuejs | [hbollon](https://github.com/hbollon) | Portfolio template using VueJs framework, CosmicJS API and Bootstrap. | [View Project](https://github.com/hbollon/portfolio-vuejs) |
 | suradet-portfolio | [pharmacist-sabot](https://github.com/pharmacist-sabot) | A personal portfolio website built with Vue.js, showcasing projects and professional experience. | [View Project](https://github.com/pharmacist-sabot/suradet-portfolio) |
 | vuefolio | [ralodev](https://github.com/ralodev) | Vuejs + i18n portfolio template with easy setup and SEO friendly. | [View Project](https://github.com/ralodev/vuefolio) |
 | vuejs-tailwindcss-portfolio | [realstoman](https://github.com/realstoman) | A simple multipage and responsive Vue.js & Tailwind CSS portfolio theme with dark mode. | [View Project](https://github.com/realstoman/vuejs-tailwindcss-portfolio) |
