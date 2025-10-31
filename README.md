@@ -26,6 +26,7 @@
 | vuejs-tailwindcss-portfolio | [realstoman](https://github.com/realstoman) | A simple multipage and responsive Vue.js & Tailwind CSS portfolio theme with dark mode. | [View Project](https://github.com/realstoman/vuejs-tailwindcss-portfolio) |
 | vue-developer-portfolio | [Asfak00](https://github.com/Asfak00) | A fully responsive, modern UI/UX portfolio template with dynamic content management, project showcase, and SEO optimization. | [View Project](https://github.com/Asfak00/vue-developer-portfolio) |
 | vue-resume-template | [ryanbalieiro](https://github.com/ryanbalieiro) | A clean and modern resume template built with Vue 3’s Composition API. | [View Project](https://github.com/ryanbalieiro/vue-resume-template) |
+| website | [eggsy](https://github.com/eggsy) | Source code of my personal website. Everything is included. Written in NuxtJS, TypeScript and Windi CSS. | [View Project](https://github.com/eggsy/website) |
 | win95 | [DonChiaQE](https://github.com/DonChiaQE) | Windows 95 Portfolio built with Vue.js. | [View Project](https://github.com/DonChiaQE/win95) |
 
 > **Note**: Add your project by following the contribution guidelines below.
