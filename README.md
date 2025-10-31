@@ -18,6 +18,7 @@
 | portfolio | [Hetari](https://github.com/Hetari) | My portfolio website, I clone the UI/UX from Huy Nguyen (his user name in github is: by-huy). | [View Project](https://github.com/Hetari/portfolio) |
 | Portfolio | [MuhaddiMu](https://github.com/MuhaddiMu) | Nuxt & Vue based new portfolio website. | [View Project](https://github.com/MuhaddiMu/Portfolio) |
 | portfolio-2021 | [claudiabdm](https://github.com/claudiabdm) | My personal website/portfolio built with Nuxt 3 and Storyblok CMS. | [View Project](https://github.com/claudiabdm/portfolio-2021) |
+| portfolio-new | [mayashavin](https://github.com/mayashavin) | My personal website. | [View Project](https://github.com/mayashavin/portfolio-new) |
 | portfolio-template | [AkberJag](https://github.com/AkberJag) | A fully customizable portfolio website template built using Vue.js and Tailwind CSS. | [View Project](https://github.com/AkberJag/portfolio-template) |
 | portfolio-vuejs | [hbollon](https://github.com/hbollon) | Portfolio template using VueJs framework, CosmicJS API and Bootstrap. | [View Project](https://github.com/hbollon/portfolio-vuejs) |
 | suradet-portfolio | [pharmacist-sabot](https://github.com/pharmacist-sabot) | A personal portfolio website built with Vue.js, showcasing projects and professional experience. | [View Project](https://github.com/pharmacist-sabot/suradet-portfolio) |
