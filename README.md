@@ -14,6 +14,7 @@
 |------|--------|-------------|------|
 | Eldin-Space-Vue | [EldinZaimovic](https://github.com/EldinZaimovic) | Personal Web Portfolio. | [View Project](https://github.com/EldinZaimovic/Eldin-Space-Vue) |
 | pablosirera.com | [pablosirera](https://github.com/pablosirera) | My portfolio ✌️ | [View Project](https://github.com/pablosirera/pablosirera.com) |
+| portfolio | [jeferson-sb](https://github.com/jeferson-sb) | My personal website built using Vue 3 and Vite. | [View Project](https://github.com/jeferson-sb/portfolio) |
 | Portfolio | [MuhaddiMu](https://github.com/MuhaddiMu) | Nuxt & Vue based new portfolio website. | [View Project](https://github.com/MuhaddiMu/Portfolio) |
 | portfolio-2021 | [claudiabdm](https://github.com/claudiabdm) | My personal website/portfolio built with Nuxt 3 and Storyblok CMS. | [View Project](https://github.com/claudiabdm/portfolio-2021) |
 | portfolio-template | [AkberJag](https://github.com/AkberJag) | A fully customizable portfolio website template built using Vue.js and Tailwind CSS. | [View Project](https://github.com/AkberJag/portfolio-template) |
