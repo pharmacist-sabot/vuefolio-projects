@@ -22,6 +22,7 @@
 | vuefolio | [ralodev](https://github.com/ralodev) | Vuejs + i18n portfolio template with easy setup and SEO friendly. | [View Project](https://github.com/ralodev/vuefolio) |
 | vuejs-portofolio | [mahy209](https://github.com/mahy209) | A personal portfolio with Vue JS framework. | [View Project](https://github.com/mahy209/vuejs-portofolio) |
 | vuejs-tailwindcss-portfolio | [realstoman](https://github.com/realstoman) | A simple multipage and responsive Vue.js & Tailwind CSS portfolio theme with dark mode. | [View Project](https://github.com/realstoman/vuejs-tailwindcss-portfolio) |
+| vue-developer-portfolio | [Asfak00](https://github.com/Asfak00) | A fully responsive, modern UI/UX portfolio template with dynamic content management, project showcase, and SEO optimization. | [View Project](https://github.com/Asfak00/vue-developer-portfolio) |
 | vue-resume-template | [ryanbalieiro](https://github.com/ryanbalieiro) | A clean and modern resume template built with Vue 3’s Composition API. | [View Project](https://github.com/ryanbalieiro/vue-resume-template) |
 | win95 | [DonChiaQE](https://github.com/DonChiaQE) | Windows 95 Portfolio built with Vue.js. | [View Project](https://github.com/DonChiaQE/win95) |
 
