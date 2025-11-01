@@ -17,6 +17,7 @@
 | portfolio | [jeferson-sb](https://github.com/jeferson-sb) | My personal website built using Vue 3 and Vite. | [View Project](https://github.com/jeferson-sb/portfolio) |
 | portfolio | [Hetari](https://github.com/Hetari) | My portfolio website, I clone the UI/UX from Huy Nguyen (his user name in github is: by-huy). | [View Project](https://github.com/Hetari/portfolio) |
 | Portfolio | [MuhaddiMu](https://github.com/MuhaddiMu) | Nuxt & Vue based new portfolio website. | [View Project](https://github.com/MuhaddiMu/Portfolio) |
+| portfolio | [nuxt-ui-templates](https://github.com/nuxt-ui-templates) | Nuxt Portfolio Template made with Nuxt UI and Nuxt Content. | [View Project](https://github.com/nuxt-ui-templates/portfolio) |
 | portfolio-2021 | [claudiabdm](https://github.com/claudiabdm) | My personal website/portfolio built with Nuxt 3 and Storyblok CMS. | [View Project](https://github.com/claudiabdm/portfolio-2021) |
 | portfolio-new | [mayashavin](https://github.com/mayashavin) | My personal website. | [View Project](https://github.com/mayashavin/portfolio-new) |
 | portfolio-template | [AkberJag](https://github.com/AkberJag) | A fully customizable portfolio website template built using Vue.js and Tailwind CSS. | [View Project](https://github.com/AkberJag/portfolio-template) |
@@ -51,3 +52,4 @@ This project is licensed under the MIT License.
 ---
 
 Made with ❤️ using Vue.js and community love.
+
