@@ -12,6 +12,7 @@
 
 | Name | Author | Description | Link |
 |------|--------|-------------|------|
+| developer-portfolio | [xtenzQ](https://github.com/xtenzQ) | Clean 👨‍💻 developer portfolio made in a 🎴 flat style with Bootstrap 5 and Vue. | [View Project](https://github.com/xtenzQ/developer-portfolio) |
 | Eldin-Space-Vue | [EldinZaimovic](https://github.com/EldinZaimovic) | Personal Web Portfolio. | [View Project](https://github.com/EldinZaimovic/Eldin-Space-Vue) |
 | pablosirera.com | [pablosirera](https://github.com/pablosirera) | My portfolio ✌️ | [View Project](https://github.com/pablosirera/pablosirera.com) |
 | portfolio | [jeferson-sb](https://github.com/jeferson-sb) | My personal website built using Vue 3 and Vite. | [View Project](https://github.com/jeferson-sb/portfolio) |
