@@ -23,7 +23,7 @@
 
 ---
 
-## 📦 Contents
+## Contents
 
 - [Templates & Starters](#-templates--starters)
 - [Personal Portfolios](#-personal-portfolios)
