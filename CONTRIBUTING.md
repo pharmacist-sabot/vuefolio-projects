@@ -1,44 +1,31 @@
-# Contributing to VueFolio Projects
+# Contributing to Awesome VueFolio
 
-Thank you for your interest in contributing to this project. This repository aims to showcase Vue.js portfolio projects created by developers around the world. We welcome contributions from everyone.
+We love your input! We want to make contributing to this project as easy and transparent as possible.
 
-## 📌 Guidelines
+##  Submission Guidelines
 
-### Adding a New Project
+To keep this list high-quality, please follow these rules:
 
-To add your Vue.js portfolio project:
+1.  **Vue Ecosystem:** Projects must be built primarily with **Vue.js** (v2/v3), **Nuxt**, or **Vite**.
+2.  **Open Source:** The repository must be public.
+3.  **Live Demo (Preferred):** For personal portfolios, a link to the live site in the description or repo details is highly recommended.
+4.  **No Tables:** We use a list format, not tables, to ensure better mobile readability and fewer merge conflicts.
 
-1. Fork the repository.
-2. Edit the `README.md` file and add a new row to the **VueFolio Projects** table with the following format:
+##  How to Add Your Project
 
-| [Project Name] | [Your GitHub Profile Link](https://github.com/your-username) | [Brief Description] | [Live Demo or GitHub Link](https://example.com) |
+1.  **Search** the `README.md` to ensure your project isn't already listed.
+2.  **Fork** the repository and create your branch from `main`.
+3.  Add your link to the appropriate category in **alphabetical order**:
+    - `Templates & Starters`: If your repo is meant for others to copy/fork.
+    - `Personal Portfolios`: If it's your own website.
+    - `Creative & Unique`: If it simulates an OS, game, or non-standard UI.
+4.  **Format:** Use the following format:
+    ```markdown
+    - [Project Name](GitHub URL) - Description highlighting the stack (e.g., Nuxt, Tailwind).
+    ```
+5.  **Commit** your changes and open a **Pull Request**.
 
-### Example Entry
+### Example
 
 ```markdown
-| My Vue Portfolio | [johndoe](https://github.com/johndoe) | A responsive portfolio built with Vue 3 and Tailwind CSS | [View Project](https://johndoe.github.io/portfolio) |
-```
-
-### What We Accept
-
-- Projects must be built primarily with **Vue.js** (Vue 2 or Vue 3).
-- Projects must be publicly accessible (either live demo or GitHub repository).
-- Projects should be portfolio-focused (e.g., personal websites, showcase sites).
-- Keep descriptions concise and meaningful.
-
-### What We Don't Accept
-
-- Non-Vue.js projects.
-- Projects that are not portfolio-related.
-- Incomplete or broken links.
-
-## 🔄 Pull Request Process
-
-1. Ensure your pull request adheres to the guidelines above.
-2. Use a clear title, e.g., `Add: My Vue Portfolio by @username`.
-3. Describe your project briefly in the PR description.
-4. Wait for feedback or approval from maintainers.
-
-## 🙏 Thank You!
-
-Your contribution helps developers around the world find inspiration and resources. Thank you for making this project better.
+- [My-Cool-Portfolio](https://github.com/username/repo) - A minimalist dark-mode portfolio built with **Nuxt 3** and **UnoCSS**.
