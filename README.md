@@ -74,4 +74,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## License
 
-[MIT](LICENSE)
+This project is licensed under the [MIT](LICENSE)
