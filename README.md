@@ -58,7 +58,7 @@ Real-world examples of developer portfolios for inspiration.
 - [MuhaddiMu](https://github.com/MuhaddiMu/Portfolio) - **Nuxt-based** modern portfolio website.
 - [pablosirera.com](https://github.com/pablosirera/pablosirera.com) - Personal portfolio of Pablo Sirera.
 - [realstoman](https://github.com/realstoman/vuejs-tailwindcss-portfolio) - Multipage responsive theme with **Dark Mode** support using Tailwind.
-- [suradet-portfolio](https://github.com/pharmacist-sabot/suradet-portfolio) - Professional portfolio showcasing projects and experience.
+- [suradet-portfolio](https://github.com/suradet-ps/suradet-portfolio) - Professional portfolio showcasing projects and experience.
 
 ## Creative & Unique
 
